@@ -1,0 +1,5 @@
+baseURL = "https://bvebarcelona.netlify.com"
+languageCode = "ca-es"
+title = "BVE Barcelona"
+theme = "ananke"
+theme = "ananke"
