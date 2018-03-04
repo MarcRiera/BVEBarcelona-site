@@ -23,21 +23,21 @@ removePathAccents = true
 
 [languages]
 [languages.ca]
-baseURL = "https://bvebarcelona.netlify.com/ca/"
+baseURL = "https://bvebarcelona.netlify.com/"
 languageName = "Català"
 weight = 1
 description = "El lloc web oficial del Metro de Barcelona per a openBVE"
 
 
 [languages.es]
-baseURL = "https://bvebarcelona.netlify.com/es/"
+baseURL = "https://es.bvebarcelona.netlify.com/"
 languageName = "Español"
 weight = 2
 description = "El sitio web oficial del Metro de Barcelona para openBVE"
     
 
 [languages.en]
-baseURL = "https://bvebarcelona.netlify.com/en/"
+baseURL = "https://en.bvebarcelona.netlify.com/"
 languageName = "English"
 weight = 3
 description = "The official website of the Barcelona Metro for openBVE"

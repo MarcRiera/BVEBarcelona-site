@@ -25,7 +25,7 @@ draft: false
 
 &nbsp;
 
-**Darrera versió (4/10/2016): <a href="https://bvebarcelona.cat/files/FCMB_2000.obp">Descarrega (22,4 MB)</a>**
+**Darrera versió (4/10/2016): <a href="https://github.com/MarcRiera/FCMB-2000/releases/download/v1.3/FCMB_2000_v1.3.obp">Descarrega (22,4 MB)</a>**
 
 &nbsp;
 

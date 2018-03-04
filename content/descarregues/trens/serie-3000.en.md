@@ -23,3 +23,10 @@ draft: false
 * Plugin personalitzat (simulació dels sistemes ATP i ATO)
 * Megafonia de la L3 inclosa
 
+&nbsp;
+
+**Darrera versió (4/10/2016): <a href="https://github.com/MarcRiera/FCMB-3000/releases/download/v1.3/FCMB_3000_v1.3.obp">Descarrega (22,4 MB)</a>**
+
+&nbsp;
+
+<a href="https://bvebarcelona.cat/images/trens/3000/1.png" target="_blank"><img style="float: left; width: 49.5%; margin-right: 0.5%; margin-bottom: 1em;" src="https://bvebarcelona.cat/images/trens/3000/1.png" /></a><a href="https://bvebarcelona.cat/images/trens/3000/2.png" target="_blank"><img style="float: right; width: 49.5%; margin-left: 0.5%; margin-bottom: 1em;" src="https://bvebarcelona.cat/images/trens/3000/2.png" /></a>

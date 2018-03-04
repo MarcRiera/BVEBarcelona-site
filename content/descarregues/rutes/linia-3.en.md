@@ -1,5 +1,6 @@
 ---
-title: "Línia 3 del Ferrocarril Metropolità de Barcelona"
+url: "downloads/routes/line-3"
+title: "Barcelona Metro Line 3"
 draft: false
 ---
 ### Creador:

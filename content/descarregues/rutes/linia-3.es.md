@@ -1,5 +1,6 @@
 ---
-title: "Línia 3 del Ferrocarril Metropolità de Barcelona"
+url: "descargas/rutas/linea-3"
+title: "Línea 3 del Ferrocarril Metropolitano de Barcelona"
 draft: false
 ---
 ### Creador:
