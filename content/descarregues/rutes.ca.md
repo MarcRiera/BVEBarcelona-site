@@ -1,9 +1,6 @@
 ---
 title: "Rutes"
 draft: false
-menu:
-  main:
-    parent: "Descàrregues"
 ---
 
 |||

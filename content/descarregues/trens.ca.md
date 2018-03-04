@@ -1,9 +1,6 @@
 ---
 title: "Trens"
 draft: false
-menu:
-  main:
-    parent: "Descàrregues"
 ---
 |||
 | ------------ | ------------- |
