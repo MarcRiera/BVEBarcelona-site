@@ -1,4 +1,4 @@
-baseURL = "https://bvebarcelona.netlify.com"
+baseURL = "https://bvebarcelona.netlify.com/"
 title = "BVE Barcelona"
 theme = "crab"
 DefaultContentLanguage = "ca"
