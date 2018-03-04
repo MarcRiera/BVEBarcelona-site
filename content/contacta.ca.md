@@ -4,17 +4,15 @@ draft: false
 ---
 Pàgina no disponible temporalment. Disculpeu les molèsties.
 
-<form name="contact" method="POST" netlify>
+<form name="contact" method="POST" action="ca/contacta" netlify>
   <p>
-    <label>Nom: <input type="text" name="name"></label>   
+    <label>Email: <input type="text" name="name"></label>
   </p>
   <p>
-    <label>Correu electrònic: <input type="email" name="email"></label>
+    <label>Message: <textarea name="message"></textarea></label>
   </p>
+  <div netlify-recaptcha></div>
   <p>
-    <label>Missatge: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Envia</button>
+    <button type=”submit”>Send</button>
   </p>
 </form>
