@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/crab.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}{{ .Site.Params.custom_css }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
+    {{ .Hugo.Generator }}
+
+
+
+    {{ if isset .Site.Params "mathjax"}}
+    <script type="text/javascript" src="{{ .Site.Params.mathjax }}">
+    </script>
+    {{end}}
+
+  </head>
+  <body>
+
+    <div id="container">
+
+      <div id="header-left">
+
+        <div id="site-logo">
+            <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}{{ .Site.Params.logoimage }}"></a>
+        </div>
+
+	<div id="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></div>
+	<div id="site-slogan">{{ .Site.Params.Description }}</div>
+
+
+      </div>
+      
+      <div id="header-right">
+        {{ if .IsTranslated }}
+        <ul class="language-selector">
+	  <li>
+            <a class="selected">{{ .Language.LanguageName }}</a>
+          </li>
+          {{ range .Translations }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          </li>
+          {{ end}}
+        </ul>
+        {{ end }}
+      </div>
+
+      {{ partial "menu.html" . }}
+
+          {{ if isset .Params "image"}}
+          <div id="featured-image">
+              <img src="{{ .Params.image }}">
+          </div>
+          {{end}}
+        <div id="page-title-container">
+          <div id="page-title">
+	      {{ .Title }}
+          </div>
+        </div>
+
+      <div id="content">
+        <div id="article">

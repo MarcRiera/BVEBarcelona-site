@@ -1,0 +1,28 @@
+      <nav>
+	<ul class="first">
+	 {{ $currentNode := . }}
+         {{ range .Site.Menus.main }}
+          {{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
+            <li><a class="selected">{{ .Name }}</a>
+          {{ else }}
+            <li><a href="{{.URL}}">{{ .Name }}</a>
+          {{ end }}
+	    {{ if .HasChildren }}
+	      <ul class="second">
+	      {{ range .Children }}
+                <li><a href="{{.URL}}">{{ .Name }}{{ if .HasChildren }} &raquo;{{ end }}</a>
+		  {{ if .HasChildren }}
+		    <ul class="third">
+		    {{ range .Children }}
+		      <li><a href="{{.URL}}">{{ .Name }}</a></li>
+		    {{ end }}
+		    </ul>
+		  {{ end }}
+		</li>
+	      {{ end }}
+	      </ul>
+	    {{ end }}
+	    </li>
+	  {{ end }}
+	</ul>
+      </nav>
