@@ -1,4 +1,8 @@
 ---
 title: "Notícies"
-draft: false
+menu:
+  main:
+    name: "Notícies"
+    weight: 2
+    url: "/noticies/"
 ---

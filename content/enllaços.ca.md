@@ -1,5 +1,10 @@
 ---
 title: "Enllaços"
+menu:
+  main:
+    name: "Enllaços"
+    weight: 5
+    url: "/enllacos/"
 ---
 Altres pàgines relacionades amb el Metro de Barcelona i l'openBVE:
 

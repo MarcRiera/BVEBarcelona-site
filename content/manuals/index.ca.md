@@ -1,5 +1,9 @@
 ---
 title: "Manuals"
-draft: false
+menu:
+  main:
+    name: "Manuals"
+    weight: 3
+    url: "/manuals/"
 ---
 Pàgina no disponible temporalment. Disculpeu les molèsties.

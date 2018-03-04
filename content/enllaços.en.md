@@ -1,6 +1,11 @@
 ---
 url: "links"
 title: "Links"
+menu:
+  main:
+    name: "Links"
+    weight: 5
+    url: "/links/"
 ---
 Other websites related to the Barcelona Metro and OpenBVE:
 

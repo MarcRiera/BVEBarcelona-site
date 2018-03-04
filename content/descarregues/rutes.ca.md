@@ -1,6 +1,11 @@
 ---
 title: "Rutes"
-draft: false
+menu:
+  main:
+    name: "Rutes"
+    weight: 1
+    url: "/descarregues/rutes/"
+    parent: "Descàrregues"
 ---
 
 |||

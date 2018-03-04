@@ -19,8 +19,6 @@ removePathAccents = true
   noticies = "/:section/:year/:month/:day/:title/"
 
 
-
-
 [languages]
 [languages.ca]
 baseURL = "https://bvebarcelona.netlify.com/"
@@ -46,124 +44,14 @@ description = "The official website of the Barcelona Metro for openBVE"
 
 
 [[languages.ca.menu.main]]
-    name = "Inici"
-    weight = 1
-    url = "/"
-[[languages.ca.menu.main]]
-    name = "Notícies"
-    weight = 2
-    url = "/noticies/"
-[[languages.ca.menu.main]]
-    name = "Manuals"
-    weight = 3
-    url = "/manuals/"
-[[languages.ca.menu.main]]
-    name = "Descàrregues"
-    weight = 4
-    url = "#"
-    identifier = "Descàrregues"
-[[languages.ca.menu.main]]
-    name = "Rutes"
-    weight = 1
-    url = "/descarregues/rutes/"
-    parent = "Descàrregues"
-[[languages.ca.menu.main]]
-    name = "Trens"
-    weight = 2
-    url = "/descarregues/trens/"
-    parent = "Descàrregues"
-[[languages.ca.menu.main]]
-    name = "Enllaços"
-    weight = 5
-    url = "/enllacos/"
-[[languages.ca.menu.main]]
-    name = "Contacta"
-    weight = 6
-    url = "/contacta/"
-[[languages.ca.menu.main]]
     name = "RSS"
     weight = 7
     url = "/noticies/index.xml"
-    
-[[languages.es.menu.main]]
-    name = "Inicio"
-    weight = 1
-    url = "/"
-[[languages.es.menu.main]]
-    name = "Noticias"
-    weight = 2
-    url = "/noticias/"
-[[languages.es.menu.main]]
-    name = "Manuales"
-    weight = 3
-    url = "/manuales/"
-[[languages.es.menu.main]]
-    name = "Descargas"
-    weight = 4
-    url = "#"
-    identifier = "Descargas"
-[[languages.es.menu.main]]
-    name = "Rutas"
-    weight = 1
-    url = "/descargas/rutas/"
-    parent = "Descargas"
-[[languages.es.menu.main]]
-    name = "Trenes"
-    weight = 2
-    url = "/descargas/trenes/"
-    parent = "Descargas"
-[[languages.es.menu.main]]
-    name = "Enlaces"
-    weight = 5
-    url = "/enlaces/"
-[[languages.es.menu.main]]
-    name = "Contacto"
-    weight = 6
-    url = "/contacto/"
 [[languages.es.menu.main]]
     name = "RSS"
     weight = 7
     url = "/noticias/index.xml"
-    
-[[languages.en.menu.main]]
-    name = "Home"
-    weight = 1
-    url = "/"
-[[languages.en.menu.main]]
-    name = "News"
-    weight = 2
-    url = "/news/"
-[[languages.en.menu.main]]
-    name = "Manuals"
-    weight = 3
-    url = "/manuals/"
-[[languages.en.menu.main]]
-    name = "Downloads"
-    weight = 4
-    url = "#"
-    identifier = "Downloads"
-[[languages.en.menu.main]]
-    name = "Routes"
-    weight = 1
-    url = "/downloads/routes/"
-    parent = "Downloads"
-[[languages.en.menu.main]]
-    name = "Trains"
-    weight = 2
-    url = "/downloads/trains/"
-    parent = "Downloads"
-[[languages.en.menu.main]]
-    name = "Links"
-    weight = 5
-    url = "/links/"
-[[languages.en.menu.main]]
-    name = "Contact"
-    weight = 6
-    url = "/contact/"
 [[languages.en.menu.main]]
     name = "RSS"
     weight = 7
     url = "/news/index.xml"
-    
-    
-     

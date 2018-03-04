@@ -1,6 +1,11 @@
 ---
 title: "Trens"
-draft: false
+menu:
+  main:
+    name: "Trens"
+    weight: 1
+    url: "/descarregues/trens/"
+    parent: "Descàrregues"
 ---
 |||
 | ------------ | ------------- |

@@ -1,6 +1,10 @@
 ---
 url: "manuals"
 title: "Manuals"
-draft: false
+menu:
+  main:
+    name: "Manuals"
+    weight: 3
+    url: "/manuals/"
 ---
 This page is temporarily unavailable. Sorry for the inconvenience.

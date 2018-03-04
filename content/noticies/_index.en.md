@@ -1,5 +1,9 @@
 ---
 url: "news" 
 title: "News"
-draft: false
+menu:
+  main:
+    name: "News"
+    weight: 2
+    url: "/news/"
 ---

@@ -1,7 +1,12 @@
 ---
 url: "descargas/rutas"
 title: "Rutas"
-draft: false
+menu:
+  main:
+    name: "Rutas"
+    weight: 1
+    url: "/descargas/rutas/"
+    parent: "Descargas"
 ---
 
 |||
