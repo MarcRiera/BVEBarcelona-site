@@ -1,6 +1,6 @@
 {{ $action := .Get "action" | default "thank-you" -}}
 {{- if ne $action "thank-you" -}}{{- $action := ($action | absLangURL) -}}{{- end -}}
-<form class="form-container" netlify-honeypot="antispambot" name="{{ .Get "name" }}" action="{{ $action }}" netlify>
+<form class="form-container" netlify-honeypot="antispambot" name="{{ .Get "name" }}" netlify>
   <input type="text" name="antispambot" class="hide" />
   {{ .Inner }}
   <div class="row">
