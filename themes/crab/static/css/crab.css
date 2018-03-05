@@ -58,6 +58,13 @@ a:hover {
   text-decoration: none;
 }
 
+p a:link,
+p a:active,
+p a:visited,
+p a:hover {
+  color: #208DCC;
+}
+
 #footer {
   background: #3E3E3E;
   color: #BBBBBB;

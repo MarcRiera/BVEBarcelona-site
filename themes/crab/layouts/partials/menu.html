@@ -1,8 +1,8 @@
       <nav>
 	<ul class="first">
-	 {{ $currentNode := . }}
+	 {{ $currentPage := . }}
          {{ range .Site.Menus.main }}
-          {{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
+          {{ if false }}
             <li><a class="selected">{{ .Name }}</a>
           {{ else }}
             <li><a href="{{.URL}}">{{ .Name }}</a>
@@ -10,7 +10,7 @@
 	    {{ if .HasChildren }}
 	      <ul class="second">
 	      {{ range .Children }}
-                <li><a href="{{.URL}}">{{ .Name }}{{ if .HasChildren }} &raquo;{{ end }}</a>
+                <li><a href="{{.URL}}">{{ .Name }}</a>
 		  {{ if .HasChildren }}
 		    <ul class="third">
 		    {{ range .Children }}
