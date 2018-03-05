@@ -23,7 +23,7 @@ draft: false
 
 &nbsp;
 
-**Darrera versió (8/2/2016): <a href="https://bvebarcelona.cat/files/FCMB_9000.obp">Descarrega (5,0 MB)</a>**
+**Darrera versió (8/2/2016): <a href="https://github.com/MarcRiera/FCMB-9000/releases/download/v1.0/FCMB_9000_v1.0.obp">Descarrega (5,0 MB)</a>**
 
 &nbsp;
 

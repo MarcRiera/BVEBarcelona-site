@@ -15,7 +15,7 @@ draft: false
 
 &nbsp;
 
-**Darrera versió (27/11/2016): <a href="https://bvebarcelona.cat/files/L2_Barcelona.obp">Descarrega (72 MB)</a>**
+**Darrera versió (27/11/2016): <a href="https://github.com/MarcRiera/FCMB-L2/releases/download/v1.0/FCMB_L2_v1.0.obp">Descarrega (72 MB)</a>**
 
 &nbsp;
 
