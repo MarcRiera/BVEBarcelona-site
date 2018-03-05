@@ -327,14 +327,46 @@ form textarea {
   resize: none;
 }
 
-@media screen and (max-width: 699px) {
-#site-logo {
+@media screen and (max-width: 779px) {
+
+#header-left {
   display: block;
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+#header-right {
+  display: block;
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+#site-logo,
+#site-title {
+  display: block;
+  float: none;
+  margin: auto;
+}
+
+#site-title,
+#site-slogan {
+  padding: 0px 5px;
+}
+
+.language-selector {
+  text-align: center;
+  float: none;
+}
+
+nav {
+  text-align: center;
 }
 
 }
 
-@media (min-width: 700px) {
+@media (min-width: 780px) {
   #container {
     max-width: 1200px;
   }
