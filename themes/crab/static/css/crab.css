@@ -308,6 +308,25 @@ table img {
   color: #208DCC;
 }
 
+form label {
+  display: block;
+}
+
+form textarea,
+form input {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+}
+
+form textarea {
+  height: 160px;
+  width: 100%;
+  resize: none;
+}
+
 @media screen and (max-width: 699px) {
 #site-logo {
   display: block;
