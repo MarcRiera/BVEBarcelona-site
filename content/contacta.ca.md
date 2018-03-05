@@ -8,7 +8,7 @@ menu:
 ---
 Pàgina no disponible temporalment. Disculpeu les molèsties.
 
-<form name="contact" netlify>
+<form name="contact" action="/missatge-enviat" netlify>
   <p>
     <label>Nom: <input type="text" name="name"></label>   
   </p>
