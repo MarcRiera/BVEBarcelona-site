@@ -1,71 +1,11 @@
-[home]
-other = "Inici"
-
-[templateBy]
-other = "Plantilla creada per"
-
-[portedBy]
-other = "Adaptada a Hugo per"
-
-[contactGoTo]
-other = "Anar a la pàgina de contacte"
-
-[contactAddrTitle]
-other = "Adreça"
-
-[contactTitle]
-other = "Contacte"
-
-[contactForm]
-other = "Formulari de contacte"
-
-[contactName]
-other = "El teu nom"
-
-[contactMail]
-other = "El teu email"
-
-[contactMessage]
-other = "El teu missatge"
-
-[contactSend]
-other = "Enviar missatge"
-
-[navHome]
-other = "anar a l'inici"
-
-[navToggle]
-other = "Canviar Navigació"
-
-[categoriesTitle]
-other = "Categories"
-
-[searchTitle]
-other = "Cercar"
-
-[tagsTitle]
-other = "Paraules clau"
-
-[continueReading]
-other = "Continuar llegint"
+[menu]
+other = "Menú"
 
 [readMore]
 other = "Llegeix més"
-
-[authorBy]
-other = "Per"
-
-[recentPosts]
-other = "Entrades recents"
-
-[aboutUs]
-other = "Sobre nosaltres"
 
 [newer]
 other = "Més recent"
 
 [older]
 other = "Més antic"
-
-[publishedOn]
-other = "el"

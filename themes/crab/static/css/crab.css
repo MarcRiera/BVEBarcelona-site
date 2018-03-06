@@ -85,13 +85,12 @@ nav ul {
 
 nav ul.first > li {
   display: block;
-  margin: .5em 0;
   text-align: left;
 }
 
-nav ul.second,
-nav ul.third {
-  display: none;
+nav ul li a {
+  display: block;
+  font-size: 90%;
 }
 
 nav a:link,
@@ -228,9 +227,8 @@ th,
 td {
   border: 1px solid grey;
   border-collapse: collapse;
-  margin-left:auto;
-  margin-right:auto;
-  text-align:center;
+  margin: auto;
+  text-align: center;
 }
 
 th {
@@ -238,8 +236,10 @@ th {
 }
 
 table img {
-  vertical-align:middle;
+  display: inline;
+  vertical-align: middle;
   padding: 2px 2px 2px 2px;
+  box-sizing: border-box;
 }
 
 #page-title-container {
@@ -296,6 +296,7 @@ table img {
   list-style-type: none;
   float: right;
   margin-right: 30px;
+  font-size: 90%;
 }
 
 .language-selector li {
@@ -362,6 +363,51 @@ form textarea {
 
 nav {
   text-align: center;
+  margin-bottom: 20px;
+}
+
+.burger-button {
+  display: block;
+  background: #3E3E3E;
+  font-size: 100%;
+  padding: 5px 20px 5px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+#menu-entries {
+  display: none;
+}
+
+.burger-toggle:checked ~ #menu-entries {
+  display: block;
+}
+
+.burger-toggle:checked ~ .burger-button {
+  color: #DDDDDD;
+  background: #208DCC;
+}
+
+nav ul.first > li a,
+nav ul.second > li a {
+  display: block;
+  padding: 5px 20px 5px 20px;
+  background: #3E3E3E;
+}
+
+nav ul.first > li a:hover,
+nav ul.second > li a:hover,
+.burger-button:hover {
+  color: #DDDDDD;
+  background: #208DCC;
+}
+
+nav ul.first {
+  margin-top: 0px;
+}
+
+nav ul.second > li a {
+  padding-left: 40px;
 }
 
 }
@@ -370,14 +416,14 @@ nav {
   #container {
     max-width: 1200px;
   }
-
-  nav ul li a {
-    display: block;
-    font-size: 90%;
+  
+  .burger-button {
+  display: none;
   }
   
-  .language-selector a {
-    font-size: 90%;
+  nav ul.second,
+  nav ul.third {
+    display: none;
   }
 
   nav ul.first > li {
