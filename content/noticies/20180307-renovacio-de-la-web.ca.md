@@ -1,6 +1,6 @@
 ---
 title: "Renovació de la web"
-date: 2018-03-08T12:00:00+01:00
+date: 2018-03-07T12:00:00+01:00
 ---
 Després d'uns mesos de proves, ja està activa la nova pàgina web. Tot i que el disseny és pràcticament idèntic a l'anterior, s'ha reescrit el codi pràcticament des de zero. L'objectiu d'aquest canvi era facilitar el manteniment general de la web i la traducció de continguts, millorar la velocitat de resposta i abandonar Wordpress.
 
