@@ -1,4 +1,4 @@
-baseURL = "https://bvebarcelona.netlify.com/"
+baseURL = "https://bvebarcelona.cat/"
 title = "BVE Barcelona"
 theme = "crab"
 DefaultContentLanguage = "ca"
@@ -21,21 +21,21 @@ removePathAccents = true
 
 [languages]
 [languages.ca]
-baseURL = "https://bvebarcelona-ca.netlify.com/"
+baseURL = "https://bvebarcelona.cat/"
 languageName = "Català"
 weight = 1
 description = "El lloc web oficial del Metro de Barcelona per a openBVE"
 
 
 [languages.es]
-baseURL = "https://bvebarcelona-es.netlify.com/"
+baseURL = "https://es.bvebarcelona.cat/"
 languageName = "Español"
 weight = 2
 description = "El sitio web oficial del Metro de Barcelona para openBVE"
     
 
 [languages.en]
-baseURL = "https://bvebarcelona-en.netlify.com/"
+baseURL = "https://en.bvebarcelona.cat/"
 languageName = "English"
 weight = 3
 description = "The official website of the Barcelona Metro for openBVE"
