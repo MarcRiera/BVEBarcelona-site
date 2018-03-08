@@ -1,31 +1,30 @@
 ---
 url: "descargas/trenes/serie-2000"
 title: "Serie 2000 del Ferrocarril Metropolitano de Barcelona"
-draft: false
 ---
 ### Creador:
 
 * Marc Riera
 
-### Característiques tècniques:
+### Características técnicas:
 
-* Any de construcció: 1992
+* Año de construcción: 1992
 * Constructor: CAF, MEINFESA, GEC-ALSTHOM
-* Nombre de cotxes: 5 (tren continu)
-* Presa de corrent: catenària o tercer carril a 1200 V
-* Sistemes de seguretat: Tren Stop, ATP/ATO
+* Número de coches: 5 (tren contínuo)
+* Toma de corriente: catenaria o tercer carril a 1200 V
+* Sistemas de seguridad: Tren Stop, ATP/ATO
 
-### Característiques a openBVE:
+### Características en openBVE:
 
 * Tren 2001-2002-R2301-2003-2004
-* Cabina completament en 3D amb animacions
-* Vista exterior i interior
-* Plugin personalitzat (simulació dels sistemes ATP i ATO)
-* Megafonia de la L3 inclosa
+* Cabina completamente en 3D con animaciones
+* Vista exterior e interior
+* Plugin personalizado (simulación de los sistemas ATP y ATO)
+* Megafonía de la L3 incluida
 
 &nbsp;
 
-**Darrera versió (4/10/2016): <a href="https://github.com/MarcRiera/FCMB-2000/releases/download/v1.3/FCMB_2000_v1.3.obp">Descarrega (22,4 MB)</a>**
+**Última versión (4/10/2016): <a href="https://github.com/MarcRiera/FCMB-2000/releases/download/v1.3/FCMB_2000_v1.3.obp">Descargar (22,4 MB)</a>**
 
 &nbsp;
 

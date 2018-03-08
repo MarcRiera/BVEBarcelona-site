@@ -1,6 +1,5 @@
 ---
 title: "Línia 3 del Ferrocarril Metropolità de Barcelona"
-draft: false
 ---
 ### Creador:
 

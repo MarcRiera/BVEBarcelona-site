@@ -1,6 +1,5 @@
 ---
 title: "Sèrie 9000 del Ferrocarril Metropolità de Barcelona"
-draft: false
 ---
 ### Creador:
 

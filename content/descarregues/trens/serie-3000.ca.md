@@ -27,4 +27,4 @@ title: "Sèrie 3000 del Ferrocarril Metropolità de Barcelona"
 
 &nbsp;
 
-<a href="https://bvebarcelona.cat/images/trens/3000/1.png" target="_blank"><img style="float: left; width: 49.5%; margin-right: 0.5%; margin-bottom: 1em;" src="https://bvebarcelona.cat/images/trens/3000/1.png" /></a><a href="https://bvebarcelona.cat/images/trens/3000/2.png" target="_blank"><img style="float: right; width: 49.5%; margin-left: 0.5%; margin-bottom: 1em;" src="https://bvebarcelona.cat/images/trens/3000/2.png" /></a>
+<a href="/images/trens/3000/1.png" target="_blank"><img style="float: left; width: 49.5%; margin-right: 0.5%; margin-bottom: 1em;" src="/images/trens/3000/1.png" /></a><a href="/images/trens/3000/2.png" target="_blank"><img style="float: right; width: 49.5%; margin-left: 0.5%; margin-bottom: 1em;" src="/images/trens/3000/2.png" /></a>

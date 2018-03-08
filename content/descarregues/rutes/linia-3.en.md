@@ -1,21 +1,20 @@
 ---
 url: "downloads/routes/line-3"
 title: "Barcelona Metro Line 3"
-draft: false
 ---
-### Creador:
+### Creator:
 
 * Marc Riera
 
-### Característiques:
+### Features:
 
-* Recorregut de Lesseps a Liceu (3,5 km)
-* Compatible amb ATP i ATO
-* Trens recomanats: <a href="/descarregues/trens/serie-2000">Sèrie 2000 del FCMB</a> i <a href="/descarregues/trens/serie-3000">Sèrie 3000 del FCMB</a>
+* Section between Lesseps and Liceu (3.5 km)
+* ATP and ATO compatible
+* Recommended trains: <a href="/downloads/trains/2000-series">Barcelona Metro 2000 Series</a> and <a href="/downloads/trains/3000-series">Barcelona Metro 3000 Series</a>
 
 &nbsp;
 
-**Darrera versió (30/10/2016): <a href="https://github.com/MarcRiera/FCMB-L3/releases/download/v1.0/FCMB_L3_v1.0.obp">Descarrega (10,5 MB)</a>**
+**Latest version (30/10/2016): <a href="https://github.com/MarcRiera/FCMB-L3/releases/download/v1.0/FCMB_L3_v1.0.obp">Download (10.5 MB)</a>**
 
 &nbsp;
 

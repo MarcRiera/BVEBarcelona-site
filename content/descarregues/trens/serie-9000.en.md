@@ -1,29 +1,28 @@
 ---
 url: "downloads/trains/9000-series"
 title: "Barcelona Metro 9000 Series"
-draft: false
 ---
-### Creador:
+### Creator:
 
 * Diego Silvosa
 
-### Característiques tècniques:
+### Technical description:
 
-* Any de construcció: 2006
-* Constructor: ALSTOM
-* Nombre de cotxes: 5 (tren continu)
-* Presa de corrent: catenària a 1200 V
-* Sistemes de seguretat: Tren Stop, ATP/ATO
+* Build year: 2006
+* Builder: ALSTOM
+* Number of cars: 5 (continuous train)
+* Power supply: 1200V overhead wire
+* Safety systems: Train Stop, ATP/ATO
 
-### Característiques a openBVE:
+### OpenBVE features:
 
-* Cabina 2D estàtica
-* Sense vista exterior
-* Sons realistes
+* Static 2D cab
+* No exterior view
+* Realistic sounds
 
 &nbsp;
 
-**Darrera versió (8/2/2016): <a href="https://github.com/MarcRiera/FCMB-9000/releases/download/v1.0/FCMB_9000_v1.0.obp">Descarrega (5,0 MB)</a>**
+**Latest version (8/2/2016): <a href="https://github.com/MarcRiera/FCMB-9000/releases/download/v1.0/FCMB_9000_v1.0.obp">Download (5.0 MB)</a>**
 
 &nbsp;
 

@@ -1,6 +1,5 @@
 ---
 title: "Sèrie 2000 del Ferrocarril Metropolità de Barcelona"
-draft: false
 ---
 ### Creador:
 

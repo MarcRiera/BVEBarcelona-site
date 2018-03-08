@@ -1,21 +1,20 @@
 ---
 url: "descargas/rutas/linea-2"
 title: "Línea 2 del Ferrocarril Metropolitano de Barcelona"
-draft: false
 ---
 ### Creador:
 
 * Diego Silvosa
 
-### Característiques:
+### Características:
 
-* Recorregut de Paral·lel a Bac de Roda (7 km)
-* Compatible amb ATP i ATO
-* Trens recomanats: <a href="/descarregues/trens/serie-2000">Sèrie 2000 del FCMB</a> i <a href="/descarregues/trens/serie-9000">Sèrie 9000 del FCMB</a>
+* Recorrido de Paral·lel a Bac de Roda (7 km)
+* Compatible con ATP y ATO
+* Trenes recomendados: <a href="/descargas/trenes/serie-2000">Serie 2000 del FCMB</a> y <a href="/descargas/trenes/serie-9000">Serie 9000 del FCMB</a>
 
 &nbsp;
 
-**Darrera versió (27/11/2016): <a href="https://github.com/MarcRiera/FCMB-L2/releases/download/v1.0/FCMB_L2_v1.0.obp">Descarrega (72 MB)</a>**
+**Última versión (27/11/2016): <a href="https://github.com/MarcRiera/FCMB-L2/releases/download/v1.0/FCMB_L2_v1.0.obp">Descargar (72 MB)</a>**
 
 &nbsp;
 

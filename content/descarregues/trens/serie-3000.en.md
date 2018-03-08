@@ -1,32 +1,31 @@
 ---
 url: "downloads/trains/3000-series"
 title: "Barcelona Metro 3000 Series"
-draft: false
 ---
-### Creador:
+### Creator:
 
 * Marc Riera
 
-### Característiques tècniques:
+### Technical description:
 
-* Any de construcció: 1986
-* Constructor: CAF, MTM, MACOSA
-* Nombre de cotxes: 5 (dues composicions de 2 i 3 cotxes)
-* Presa de corrent: catenària o tercer carril a 1200 V
-* Sistemes de seguretat: Tren Stop, ATP/ATO
+* Build year: 1986
+* Builder: CAF, MTM, MACOSA
+* Number of cars: 5 (two 3-car and 2-car trains combined)
+* Power supply: 1200V overhead wire or third rail
+* Safety systems: Train Stop, ATP/ATO
 
-### Característiques a openBVE:
+### OpenBVE features:
 
-* Tren 3001-3002-3003-3301-3004
-* Cabina completament en 3D amb animacions
-* Vista exterior i interior
-* Plugin personalitzat (simulació dels sistemes ATP i ATO)
-* Megafonia de la L3 inclosa
-
-&nbsp;
-
-**Darrera versió (4/10/2016): <a href="https://github.com/MarcRiera/FCMB-3000/releases/download/v1.3/FCMB_3000_v1.3.obp">Descarrega (22,4 MB)</a>**
+* Train 3001-3002-3003-3301-3004
+* Fully animated 3D cab
+* Exterior and interior views
+* Custom plugin (ATP and ATO simulation)
+* L3 announcements included
 
 &nbsp;
 
-<a href="https://bvebarcelona.cat/images/trens/3000/1.png" target="_blank"><img style="float: left; width: 49.5%; margin-right: 0.5%; margin-bottom: 1em;" src="https://bvebarcelona.cat/images/trens/3000/1.png" /></a><a href="https://bvebarcelona.cat/images/trens/3000/2.png" target="_blank"><img style="float: right; width: 49.5%; margin-left: 0.5%; margin-bottom: 1em;" src="https://bvebarcelona.cat/images/trens/3000/2.png" /></a>
+**Latest version (4/10/2016): <a href="https://github.com/MarcRiera/FCMB-3000/releases/download/v1.3/FCMB_3000_v1.3.obp">Download (22.4 MB)</a>**
+
+&nbsp;
+
+<a href="/images/trens/3000/1.png" target="_blank"><img style="float: left; width: 49.5%; margin-right: 0.5%; margin-bottom: 1em;" src="/images/trens/3000/1.png" /></a><a href="/images/trens/3000/2.png" target="_blank"><img style="float: right; width: 49.5%; margin-left: 0.5%; margin-bottom: 1em;" src="/images/trens/3000/2.png" /></a>
