@@ -1,4 +1,5 @@
 ---
+url: "noticias/2017/02/07/novetats-i-millores"
 title: "Novetats i millores"
 date: 2017-02-07T12:00:00+01:00
 ---

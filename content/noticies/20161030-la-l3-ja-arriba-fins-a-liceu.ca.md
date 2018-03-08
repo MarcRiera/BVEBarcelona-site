@@ -1,7 +1,6 @@
 ---
 title: "La L3 ja arriba fins a Liceu"
 date: 2016-10-30T12:00:00+01:00
-draft: false
 ---
 Ja està disponible la nova versió de la L3, que amplia el recorregut fins a les estacions de Catalunya i Liceu. Han estat molts mesos de feina per aconseguir els millors resultats a la part més complicada de la línia.
 

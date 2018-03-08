@@ -1,7 +1,6 @@
 ---
 title: "S'apropa una actualització"
 date: 2016-03-13T12:00:00+01:00
-draft: false
 ---
 Queda molt poc perquè estigui disponible una actualització de la línia 3! Les novetats seran bastant importants:
 

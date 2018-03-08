@@ -1,7 +1,6 @@
 ---
 title: "Més L2 i nou sistema de comentaris"
 date: 2016-11-17T12:00:00+01:00
-draft: false
 ---
 Des del passat dia 15 de novembre està disponible una nova versió en proves de la L2 fins a l’estació de Clot. Tot i que inclou millores des de la versió anterior, és una versió prèvia a la final i pot no funcionar correctament. A partir dels vostres comentaris procurarem millorar el que calgui.
 
