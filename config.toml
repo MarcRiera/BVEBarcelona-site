@@ -1,6 +1,6 @@
 baseURL = "https://bvebarcelona.cat/"
 title = "BVE Barcelona"
-theme = "dark-cosmos"
+theme = "kozmo-dark"
 DefaultContentLanguage = "ca"
 removePathAccents = true
 

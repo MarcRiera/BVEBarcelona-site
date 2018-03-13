@@ -1,8 +1,0 @@
-name = "Dark Cosmos"
-license = "GPL"
-licenselink = "https://github.com/MarcRiera/Dark-Cosmos/master/LICENSE.md"
-description = "A clean dark theme for Hugo websites"
-homepage = "https://github.com/MarcRiera/Dark-Cosmos"
-tags = ["clean", "dark"]
-features = ["responsive", "404", "blog"]
-min_version = 0.18
