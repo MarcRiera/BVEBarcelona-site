@@ -1,11 +1,11 @@
 ---
 title: "Sèrie 9000 del Ferrocarril Metropolità de Barcelona"
 ---
-### Creador:
+## Creador:
 
 * Diego Silvosa
 
-### Característiques tècniques:
+## Característiques tècniques:
 
 * Any de construcció: 2006
 * Constructor: ALSTOM
@@ -13,7 +13,7 @@ title: "Sèrie 9000 del Ferrocarril Metropolità de Barcelona"
 * Presa de corrent: catenària a 1200 V
 * Sistemes de seguretat: Tren Stop, ATP/ATO
 
-### Característiques a openBVE:
+## Característiques a openBVE:
 
 * Cabina 2D estàtica
 * Sense vista exterior

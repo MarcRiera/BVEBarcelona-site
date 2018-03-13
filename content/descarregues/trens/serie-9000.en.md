@@ -2,11 +2,11 @@
 url: "downloads/trains/9000-series"
 title: "Barcelona Metro 9000 Series"
 ---
-### Creator:
+## Creator:
 
 * Diego Silvosa
 
-### Technical description:
+## Technical description:
 
 * Build year: 2006
 * Builder: ALSTOM
@@ -14,7 +14,7 @@ title: "Barcelona Metro 9000 Series"
 * Power supply: 1200V overhead wire
 * Safety systems: Train Stop, ATP/ATO
 
-### OpenBVE features:
+## OpenBVE features:
 
 * Static 2D cab
 * No exterior view

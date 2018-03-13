@@ -2,11 +2,11 @@
 url: "descargas/trenes/serie-2000"
 title: "Serie 2000 del Ferrocarril Metropolitano de Barcelona"
 ---
-### Creador:
+## Creador:
 
 * Marc Riera
 
-### Características técnicas:
+## Características técnicas:
 
 * Año de construcción: 1992
 * Constructor: CAF, MEINFESA, GEC-ALSTHOM
@@ -14,7 +14,7 @@ title: "Serie 2000 del Ferrocarril Metropolitano de Barcelona"
 * Toma de corriente: catenaria o tercer carril a 1200 V
 * Sistemas de seguridad: Tren Stop, ATP/ATO
 
-### Características en openBVE:
+## Características en openBVE:
 
 * Tren 2001-2002-R2301-2003-2004
 * Cabina completamente en 3D con animaciones

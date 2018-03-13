@@ -2,11 +2,11 @@
 url: "downloads/trains/2000-series"
 title: "Barcelona Metro 2000 Series"
 ---
-### Creator:
+## Creator:
 
 * Marc Riera
 
-### Technical description:
+## Technical description:
 
 * Build year: 1992
 * Builder: CAF, MEINFESA, GEC-ALSTHOM
@@ -14,7 +14,7 @@ title: "Barcelona Metro 2000 Series"
 * Power supply: 1200V overhead wire or third rail
 * Safety systems: Train Stop, ATP/ATO
 
-### OpenBVE features:
+## OpenBVE features:
 
 * Train 2001-2002-R2301-2003-2004
 * Fully animated 3D cab

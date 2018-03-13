@@ -2,11 +2,11 @@
 url: "descargas/rutas/linea-3"
 title: "Línea 3 del Ferrocarril Metropolitano de Barcelona"
 ---
-### Creador:
+## Creador:
 
 * Marc Riera
 
-### Características:
+## Características:
 
 * Recorrido de Lesseps a Liceu (3,5 km)
 * Compatible con ATP y ATO

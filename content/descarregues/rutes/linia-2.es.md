@@ -2,11 +2,11 @@
 url: "descargas/rutas/linea-2"
 title: "Línea 2 del Ferrocarril Metropolitano de Barcelona"
 ---
-### Creador:
+## Creador:
 
 * Diego Silvosa
 
-### Características:
+## Características:
 
 * Recorrido de Paral·lel a Bac de Roda (7 km)
 * Compatible con ATP y ATO

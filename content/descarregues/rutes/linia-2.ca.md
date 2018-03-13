@@ -1,11 +1,11 @@
 ---
 title: "Línia 2 del Ferrocarril Metropolità de Barcelona"
 ---
-### Creador:
+## Creador:
 
 * Diego Silvosa
 
-### Característiques:
+## Característiques:
 
 * Recorregut de Paral·lel a Bac de Roda (7 km)
 * Compatible amb ATP i ATO

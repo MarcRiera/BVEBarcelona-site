@@ -1,11 +1,11 @@
 ---
 title: "Línia 3 del Ferrocarril Metropolità de Barcelona"
 ---
-### Creador:
+## Creador:
 
 * Marc Riera
 
-### Característiques:
+## Característiques:
 
 * Recorregut de Lesseps a Liceu (3,5 km)
 * Compatible amb ATP i ATO

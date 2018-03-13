@@ -1,11 +1,11 @@
 ---
 title: "Sèrie 3000 del Ferrocarril Metropolità de Barcelona"
 ---
-### Creador:
+## Creador:
 
 * Marc Riera
 
-### Característiques tècniques:
+## Característiques tècniques:
 
 * Any de construcció: 1986
 * Constructor: CAF, MTM, MACOSA
@@ -13,7 +13,7 @@ title: "Sèrie 3000 del Ferrocarril Metropolità de Barcelona"
 * Presa de corrent: catenària o tercer carril a 1200 V
 * Sistemes de seguretat: Tren Stop, ATP/ATO
 
-### Característiques a openBVE:
+## Característiques a openBVE:
 
 * Tren 3001-3002-3003-3301-3004
 * Cabina completament en 3D amb animacions

@@ -2,11 +2,11 @@
 url: "downloads/trains/3000-series"
 title: "Barcelona Metro 3000 Series"
 ---
-### Creator:
+## Creator:
 
 * Marc Riera
 
-### Technical description:
+## Technical description:
 
 * Build year: 1986
 * Builder: CAF, MTM, MACOSA
@@ -14,7 +14,7 @@ title: "Barcelona Metro 3000 Series"
 * Power supply: 1200V overhead wire or third rail
 * Safety systems: Train Stop, ATP/ATO
 
-### OpenBVE features:
+## OpenBVE features:
 
 * Train 3001-3002-3003-3301-3004
 * Fully animated 3D cab

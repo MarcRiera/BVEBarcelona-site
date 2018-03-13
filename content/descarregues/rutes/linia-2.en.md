@@ -2,11 +2,11 @@
 url: "downloads/routes/line-2"
 title: "Barcelona Metro Line 2"
 ---
-### Creator:
+## Creator:
 
 * Diego Silvosa
 
-### Features:
+## Features:
 
 * Section between Paral·lel and Bac de Roda (7 km)
 * ATP and ATO compatible
