@@ -14,6 +14,8 @@ removePathAccents = true
 [params.custom]
   faviconPNG = "favicon.png"
 
+[blackfriday]
+  fractions = false
 
 [permalinks]
   noticies = "/:section/:year/:month/:day/:title/"
