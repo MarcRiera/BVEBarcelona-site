@@ -7,4 +7,3 @@ menu:
     weight: 3
     url: "/manuales/"
 ---
-Página no disponible temporalmente. Disculpa las molestias.
