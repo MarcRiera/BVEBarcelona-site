@@ -1,4 +1,5 @@
 ---
+type: "list"
 url: "manuals"
 title: "Manuals"
 menu:

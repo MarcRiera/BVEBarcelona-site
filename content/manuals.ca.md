@@ -1,4 +1,5 @@
 ---
+type: "list"
 title: "Manuals"
 menu:
   main:
