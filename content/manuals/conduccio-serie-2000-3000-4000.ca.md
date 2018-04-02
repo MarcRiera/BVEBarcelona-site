@@ -65,7 +65,7 @@ Tota la informació d’aquest manual s’aplica als tres trens a no ser que s�
 
 <center><h1>Conducció del tren</h1></center>
 
-Els trens de les sèries 2000, 3000 i 4000 disposen d’un manipulador marxa-fre (1) amb 7 posicions de fre de servei, 4 posicions de tracció i 1 posició de deriva. Tot i que els controls són els estàndard per a qualsevol tren de control simple a OpenBVE, cal tenir en compte l’anomenat ***Home mort***. És molt important mantenir activat el polsador (barra d’espai) durant la tracció, la deriva i la frenada. Si per qualsevol raó no s’activa el polsador durant més de 3 segons, el tren aplicarà el fre d’emergència i no es podrà reprendre la marxa fins que s’hagi aturat completament.
+Els trens de les sèries 2000, 3000 i 4000 disposen d’un manipulador marxa-fre (1) amb 7 posicions de fre de servei, 4 posicions de tracció i 1 posició de deriva. Tot i que els controls són els estàndard per a qualsevol tren de control simple a openBVE, cal tenir en compte l’anomenat ***Home mort***. És molt important mantenir activat el polsador (barra d’espai) durant la tracció, la deriva i la frenada. Si per qualsevol raó no s’activa el polsador durant més de 3 segons, el tren aplicarà el fre d’emergència i no es podrà reprendre la marxa fins que s’hagi aturat completament.
 
 ## Modes de conducció
 
@@ -87,7 +87,7 @@ El manipulador marxa-fre (1) ha d’estar en posició de deriva (N) perquè el t
 
 ## Desactivar els sistemes de seguretat (mode especial)
 
-Els trens de les sèries 2000, 3000 i 4000 disposen d’un ***Mode especial*** per circular per vies sense protecció ATP sense la limitació de velocitat del mode Manual+25. Tot i que està prohibit utilitzar-lo durant la circulació normal, pot ser útil per a rutes d’OpenBVE sense característiques ATP. Es pot activar o desactivar (Av Pàg) sempre que el tren estigui aturat.
+Els trens de les sèries 2000, 3000 i 4000 disposen d’un ***Mode especial*** per circular per vies sense protecció ATP sense la limitació de velocitat del mode Manual+25. Tot i que està prohibit utilitzar-lo durant la circulació normal, pot ser útil per a rutes d’openBVE sense característiques ATP. Es pot activar o desactivar (Av Pàg) sempre que el tren estigui aturat.
 
 ## Arrencada en pendent
 

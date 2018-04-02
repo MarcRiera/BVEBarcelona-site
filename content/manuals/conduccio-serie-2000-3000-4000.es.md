@@ -67,7 +67,7 @@ Toda la información de este manual se aplica a los tres trenes a no ser que se 
 
 <center><h1>Conducción del tren</h1></center>
 
-Los trenes de las series 2000, 3000 y 4000 disponen de un manipulador marcha-freno (1) con 7 posiciones de freno de servicio, 4 posiciones de tracción y 1 posición de deriva. Aunque los controles son los estándar para cualquier tren de control simple en OpenBVE, hay que tener en cuenta el llamado ***Hombre muerto***. Es muy importante mantener activado el pulsador (barra de espacio) durante la tracción, la deriva y el frenado. Si por cualquier motivo no se activa el pulsador durante más de 3 segundos, el tren aplicará el freno de emergencia y no se podrá retomar la marcha hasta que esté parado por completo.
+Los trenes de las series 2000, 3000 y 4000 disponen de un manipulador marcha-freno (1) con 7 posiciones de freno de servicio, 4 posiciones de tracción y 1 posición de deriva. Aunque los controles son los estándar para cualquier tren de control simple en openBVE, hay que tener en cuenta el llamado ***Hombre muerto***. Es muy importante mantener activado el pulsador (barra de espacio) durante la tracción, la deriva y el frenado. Si por cualquier motivo no se activa el pulsador durante más de 3 segundos, el tren aplicará el freno de emergencia y no se podrá retomar la marcha hasta que esté parado por completo.
 
 ## Modos de conducción
 
@@ -89,7 +89,7 @@ El manipulador marcha-freno (1) tiene que estar en posición de deriva (N) para 
 
 ## Desactivar los sistemas de seguridad (modo especial)
 
-Los trenes de las series 2000, 3000 y 4000 disponen de un ***Modo especial*** para circular por vías sin protección ATP sin la limitación de velocidad del modo Manual+25. Aunque está prohibido utilizarlo durante la circulación normal, puede ser útil para rutas de OpenBVE sin características ATP. Se puede activar o desactivar (Av Pág) siempre que el tren se encuentre parado.
+Los trenes de las series 2000, 3000 y 4000 disponen de un ***Modo especial*** para circular por vías sin protección ATP sin la limitación de velocidad del modo Manual+25. Aunque está prohibido utilizarlo durante la circulación normal, puede ser útil para rutas de openBVE sin características ATP. Se puede activar o desactivar (Av Pág) siempre que el tren se encuentre parado.
 
 ## Arranque en pendiente
 

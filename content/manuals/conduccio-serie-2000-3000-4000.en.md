@@ -66,7 +66,7 @@ All the information in this manual applies to the three series unless otherwise 
 
 <center><h1>Driving the train</h1></center>
 
-The 2000, 3000 and 4000 series trains have a power-brake handle (1) with 7 brake notches, 4 power notches and 1 neutral notch. Although the controls are the same as for any other OpenBVE train with a single handle, the so-called ***Dead man*** device must be taken into account. It is very important to keep the button (space bar) pressed at all times while the train is in motion. If for any reason the button is not pressed for more than 3 seconds, the emergency brakes will be applied and the train will not move again until it has fully stopped.
+The 2000, 3000 and 4000 series trains have a power-brake handle (1) with 7 brake notches, 4 power notches and 1 neutral notch. Although the controls are the same as for any other openBVE train with a single handle, the so-called ***Dead man*** device must be taken into account. It is very important to keep the button (space bar) pressed at all times while the train is in motion. If for any reason the button is not pressed for more than 3 seconds, the emergency brakes will be applied and the train will not move again until it has fully stopped.
 
 ## Driving modes
 
@@ -88,7 +88,7 @@ The power-brake handle (1) must be place at neutral (N) in order to start up the
 
 ## Disabling the safety systems (special mode)
 
-The 2000, 3000 and 4000 series trains have a ***Special Mode*** available to drive on track sections without ATP protection and override the Manual+25 mode speed limit. Even though it is forbidden to use it during normal service, it may be useful for OpenBVE routes without ATP features. It can be turned on or off (Page Down) at any time the train is stopped.
+The 2000, 3000 and 4000 series trains have a ***Special Mode*** available to drive on track sections without ATP protection and override the Manual+25 mode speed limit. Even though it is forbidden to use it during normal service, it may be useful for openBVE routes without ATP features. It can be turned on or off (Page Down) at any time the train is stopped.
 
 ## Starting up the train on slopes
 
