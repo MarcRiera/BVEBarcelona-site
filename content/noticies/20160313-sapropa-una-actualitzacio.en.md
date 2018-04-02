@@ -1,16 +1,17 @@
 ---
-title: "S'apropa una actualització"
+url: "news/2016/03/13/an-update-is-coming"
+title: "An update is coming"
 date: 2016-03-13T12:00:00+01:00
 ---
-Queda molt poc perquè estigui disponible una actualització de la línia 3! Les novetats seran bastant importants:
+An updated L3 is close to being released! The new features are quite remarkable:
 
-* Nou tren disponible: Sèrie 2000 del FCMB.
-* Possibilitat de fer el trajecte en tots dos sentits.
-* Versió especial de la línia amb presa de corrent per tercer carril.
-* Nova estació: Diagonal.
-* Millores en l'aparença dels túnels, amb ombres per donar més realisme.
+* New train set available: FCMB 2000 series.
+* The line can be played upwards or downwards.
+* Special version of the line with a third rail power supply.
+* New station: Diagonal.
+* Improved tunnel appearance.
 
-Us deixem un petit tast del que hi trobareu:
+Here is a sneak peek of what will be included:
 
 <img src="/images/noticies/20160313/1.png">
 
@@ -21,3 +22,5 @@ Us deixem un petit tast del que hi trobareu:
 <img src="/images/noticies/20160313/4.png">
 
 <img src="/images/noticies/20160313/5.png">
+
+See you!

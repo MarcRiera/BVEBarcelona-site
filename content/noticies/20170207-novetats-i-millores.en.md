@@ -1,30 +1,30 @@
 ---
-url: "news/2017/02/07/novetats-i-millores"
-title: "Novetats i millores"
+url: "news/2017/02/07/news-and-improvements"
+title: "News and improvements"
 date: 2017-02-07T12:00:00+01:00
 ---
-Durant els darrers mesos, encara que hagi estat una feina invisible, hem realitzat canvis a OpenBVE i a la L3 per millorar encara més el projecte en el futur. Aquí en fem un recull:
+During the last months, even though it has been an invisible job, we have made some changes to openBVE and the L3 to improve even more the project in the future. Here is a summary of the changes:
 
-## Traducció actualitzada
+## Updated translation
 
-S’han revisat les traduccions del programa OpenBVE. El canvi més important el notaran els usuaris del programa en castellà, que podran gaudir d’un gestor de paquets completament traduït.
+The openBVE program translations have been revised. The most important change will be noticeable for Spanish users, who will now be able to use a fully translated package manager.
 
-## Millores del disseny del joc
+## Program design improvements
 
-Hem detectat que hi havia errors greus de disseny en alguns textos de la interfície d’usuari del programa, que en alguns casos quedaven superposats. El nou disseny és més clar i agradable.
+We detected some annoying design errors in many of the program UI's texts, which in some cases overlapped. The new design is clearer and nicer.
 
-## Bloqueig de portes
+## Door blocking
 
-Des de la propera versió d’OpenBVE, els creadors de trens tindran disponible una nova funció per a les extensions: la possibilitat de bloquejar les portes quan estan obertes o tancades. Això representarà una millora en el cas dels trens de la sèrie 2000 i la sèrie 3000, que seran més realistes. En el cas de la sèrie 3000 reformada, disponible en un futur no gaire llunyà, el funcionament del tren guanyarà complexitat: el tren no podrà tancar portes si abans no s’activa l’avís de tancament.
+From the next version of openBVE, train developers will be able to use a new feature in plugins: the possibility of blocking doors when open or closed. This will represent an improvement in the 2000 and 3000 series trains, which will be more realistic. The refurbished 3000 series train, available soon, will feature more complex behaviour: the train will not be able to close the doors unless the closing signal has been activated before.
 
-## Tren-Stop
+## Train-Stop
 
-Una de les novetats més importants de les properes versions dels trens és el Tren-Stop, un dispositiu de seguretat de circulació. Aquest dispositiu rep informació de la senyalització de la línia mitjançant balises, i aplica el fre d’emergència si s’intenta ultrapassar una senyal que no marca via lliure (verd). Una vegada el tren s’ha aturat del tot, s’ha de reactivar el dispositiu i circular fins a la següent estació amb marxa a la vista.
+One of the most important additions in the upcoming releases of the trains is Train-Stop, a traffic safety device. This device receives information about the line's signals using beacons, and applies the emergency brakes if the driver tries to pass a red signal. Once the train has come to a complete stop, the device must be reset and the drive must drive until next station at a reduced speed.
 
-## Estació en construcció
+## Station under construction
 
-També estan molt avançats els treballs de l’estació de Drassanes, disponible a la propera versió de la L3. L’estructura bàsica de l’estació està acabada, i queda retocar petits detalls i fer els accessos.
+The works in Drassanes station, available in the next version of the L3, have advanced a lot too. The main structure of the station is finished, and only small details and platform accesses are left to be done.
 
-Fins la propera!
+See you!
 
 <img src="/images/noticies/20170207/1.png">

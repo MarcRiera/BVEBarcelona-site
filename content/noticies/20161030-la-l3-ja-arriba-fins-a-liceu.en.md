@@ -1,14 +1,15 @@
 ---
-title: "La L3 ja arriba fins a Liceu"
+url: "news/2016/10/30/the-l3-now-reaches-liceu"
+title: "The L3 now reaches Liceu"
 date: 2016-10-30T12:00:00+01:00
 ---
-Ja està disponible la nova versió de la L3, que amplia el recorregut fins a les estacions de Catalunya i Liceu. Han estat molts mesos de feina per aconseguir els millors resultats a la part més complicada de la línia.
+The new version of the L3 is now available, and it expands the trip to the Catalunya and Liceu stations. We have been working hard during the past months to get the best results in the most complicated part of the line.
 
-Entre les estacions de Passeig de Gràcia i Catalunya existeix una bifurcació cap a la L4 que antigament s’utilitzava per donar servei a les estacions d’Urquinaona, Jaume I i Correos. Tot i que ja no s’utilitza durant el servei comercial, la infraestructura segueix intacta. Per tant, era necessari recrear una part del túnel molt peculiar, i la feina s’ha allargat més del previst.
+Between the Passeig de Gràcia and Catalunya stations there is a junction to L4 that was used in the past to operate the Urquinaona, Jaume I and Correos stations. Even though it is not used in regular service anymore, the infrastructure remains intact. Because of this, it was necessary to recreate a very unique tunnel section, so there has been some delay in the work.
 
-No obstant això, ara ja podeu descarregar l’actualització i gaudir del resultat. Us recomanem encendre els fars al túnel per poder veure bé tots els detalls amagats.
+However, now you can download the update and enjoy the results. We recommend to turn on the headlights in the tunnel to see the hidden details better.
 
-Fins la propera!
+See you!
 
 <img src="/images/noticies/20161030/1.png">
 

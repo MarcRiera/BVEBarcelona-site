@@ -1,7 +1,8 @@
 ---
-title: "Nova secció de manuals"
+url: "news/2016/06/29/new-manuals-section"
+title: "New manuals section"
 date: 2016-06-29T12:00:00+01:00
 ---
-A partir d’avui queda oberta la secció de manuals, on podreu trobar documentació útil sobre openBVE. D’entrada hi ha un primer manual sobre com instal·lar paquets a la nova versió d’openBVE, que serà necessària per a la nova versió de la Línia 3 que estarà disponible aquesta setmana.
+The "Manuals" section is now open, and you will find useful OpenBVE documentation in it. The first manual is on installing packages in the new OpenBVE version, which will be required in order to play the new L3 version available this week.
 
-Fins la propera!
+See you!

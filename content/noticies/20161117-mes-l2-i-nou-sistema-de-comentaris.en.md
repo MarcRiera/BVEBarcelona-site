@@ -1,9 +1,10 @@
 ---
-title: "Més L2 i nou sistema de comentaris"
+url: "news/2016/11/17/more-l2-and-new-comments-system"
+title: "More L2 and new comments system"
 date: 2016-11-17T12:00:00+01:00
 ---
-Des del passat dia 15 de novembre està disponible una nova versió en proves de la L2 fins a l’estació de Clot. Tot i que inclou millores des de la versió anterior, és una versió prèvia a la final i pot no funcionar correctament. A partir dels vostres comentaris procurarem millorar el que calgui.
+Since the 15th of November a new preview version of the L2 up to Clot station is available. While it includes improvements since the previous version, it is a beta release and may not work correctly. We will try to fix any bug from your feedback.
 
-A més, durant un mes hem estat provant un nou sistema de comentaris. A partir d’ara els comentaris no quedaran publicats a la pàgina web, sinó que s’enviaran per correu i així podreu rebre una resposta individual. El sistema anterior és incompatible els llocs web trilingües i per això ens hem vist obligats a canviar-lo. Els comentaris realitzats abans de novembre desapareixeran.
+Also, during the past month we have been testing a new comments system. From now on, comments will not be published on the website, but sent by e-mail so you can get an individual response. The previous system is not compatible with multilanguage websites and hence we have been forced to change it. Comments posted before November will disappear.
 
-Fins la propera!
+See you!

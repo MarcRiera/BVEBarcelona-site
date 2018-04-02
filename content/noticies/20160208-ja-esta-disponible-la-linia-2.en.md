@@ -1,9 +1,10 @@
 ---
-title: "Ja està disponible la Línia 2!"
+url: "news/2016/02/08/l2-is-now-available"
+title: "L2 is now available!"
 date: 2016-02-08T12:00:00+01:00
 ---
-Des d’avui ja es pot descarregar la versió de la línia 2 que va fer en Diego Silvosa (Rodalíes) i que va publicar l’any passat al Fòrum del Transport Català. La ruta de moment inclou el tram original de la línia 2, entre Paral·lel i Sagrada Família (uns 4,4 km aproximadament). A més, també va fer un tren de la sèrie 9000 per fer el recorregut.
+Starting from today, the L2 by Diego Silvosa (Rodalíes), published last year in Fòrum del Transport Català, is available for download. The route currently includes the original L2 section between Paral·lel and Sagrada Família (around 4.4 km). Diego also built a 9000 series train set to drive on the route.
 
-Trobareu la ruta i el tren a la secció de descàrregues, com a continguts separats o com un paquet conjunt.
+You will find the route and the train in the downloads section, both as separate or single packages.
 
-Fins la propera!
+See you!

@@ -31,7 +31,7 @@ description = "El lloc web oficial del Metro de Barcelona per a openBVE"
 
 [languages.es]
 baseURL = "https://es.bvebarcelona.cat/"
-languageName = "Español"
+languageName = "Castellano"
 weight = 2
 description = "El sitio web oficial del Metro de Barcelona para openBVE"
     

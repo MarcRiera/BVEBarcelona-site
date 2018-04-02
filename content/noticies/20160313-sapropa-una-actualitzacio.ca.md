@@ -21,3 +21,5 @@ Us deixem un petit tast del que hi trobareu:
 <img src="/images/noticies/20160313/4.png">
 
 <img src="/images/noticies/20160313/5.png">
+
+Fins la propera!

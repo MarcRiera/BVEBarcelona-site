@@ -1,7 +1,8 @@
 ---
-title: "Novetats sobre la Línia 3"
+url: "noticias/2016/07/01/novedades-sobre-la-linea-3"
+title: "Novedades sobre la Línea 3"
 date: 2016-07-01T12:00:00+01:00
 ---
-Des d’avui ja es pot descarregar una nova versió de la Línia 3, que entre altres millores inclou l’extensió fins a Passeig de Gràcia. També s’han actualitzat els trens de les sèries 2000 i 3000: a partir d’ara estaran disponibles en format OBP. Si teniu dubtes sobre com instal·lar aquests paquets, podeu consultar la secció de manuals per a més informació.
+Desde hoy ya se puede descargar una nueva versión de la Línea 3, que entre otras mejoras incluye la extensión hasta Passeig de Gràcia. También se han actualizado los trenes de las series 2000 y 3000: a partir de ahora estarán disponibles en formato OBP. Si tenéis dudas sobre cómo instalar estos paquetes, podéis consultar la sección de manuales para más información.
 
-Fins la propera!
+¡Hasta la próxima!

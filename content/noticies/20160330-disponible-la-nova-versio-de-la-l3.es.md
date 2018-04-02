@@ -1,7 +1,8 @@
 ---
-title: "Disponible la nova versió de la L3"
+url: "noticias/2016/03/30/disponible-la-nueva-version-de-la-l3"
+title: "Disponible la nueva versión de la L3"
 date: 2016-03-30T12:00:00+01:00
 ---
-Ja està disponible a la secció de descàrregues la nova versió de la L3. Aquesta versió amplia el recorregut fins a l’estació de Diagonal, i permet realitzar el trajecte ascendent. A més, s’han millorat els túnels per fer-los més realistes, i s’ha renovat tota la senyalització per ajustar-la a la realitat. Finalment, ara hi ha l’opció de circular per una L3 amb presa de corrent per tercer carril, tal com es feia uns anys enrere.
+Ya está disponible en la sección de descargas la nueva versión de la L3. Esta versión amplía el recorrido hasta la estación de Diagonal, y permite realizar el trayecto en sentido ascendente. Además, se han mejorado los túneles para hacerlos más realistas, y se ha renovado toda la señalización para ajustarla a la realidad. Finalmente, ahora existe la opción de circular por una L3 con toma de corriente por tercer carril, igual que como se hacía en el pasado.
 
-Bon viatge i fins la propera!
+¡Buen viaje y hasta la próxima!
