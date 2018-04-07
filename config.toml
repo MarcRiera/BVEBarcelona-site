@@ -10,9 +10,7 @@ removePathAccents = true
   logoimage = "images/logo.png"
   attribution = "true"
   custom_css = "css/site.css"
-
-[params.custom]
-  faviconPNG = "favicon.png"
+  recentupdates = "noticies"
 
 [blackfriday]
   fractions = false
