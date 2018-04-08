@@ -10,7 +10,7 @@ title: "Línea 3 del Ferrocarril Metropolitano de Barcelona"
 
 * Recorrido de Lesseps a Liceu (3,5 km)
 * Compatible con ATP y ATO
-* Trenes recomendados: <a href="/descargas/trenes/serie-2000">Serie 2000 del FCMB</a> y <a href="/descargas/trenes/serie-3000">Serie 3000 del FCMB</a>
+* Trenes necesarios: <a href="/descargas/trenes/serie-2000">Serie 2000 del FCMB</a> y <a href="/descargas/trenes/serie-3000">Serie 3000 del FCMB</a>
 
 &nbsp;
 

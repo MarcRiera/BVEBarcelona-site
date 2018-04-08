@@ -10,7 +10,7 @@ title: "Barcelona Metro Line 3"
 
 * Section between Lesseps and Liceu (3.5 km)
 * ATP and ATO compatible
-* Recommended trains: <a href="/downloads/trains/2000-series">Barcelona Metro 2000 Series</a> and <a href="/downloads/trains/3000-series">Barcelona Metro 3000 Series</a>
+* Required trains: <a href="/downloads/trains/2000-series">Barcelona Metro 2000 Series</a> and <a href="/downloads/trains/3000-series">Barcelona Metro 3000 Series</a>
 
 &nbsp;
 

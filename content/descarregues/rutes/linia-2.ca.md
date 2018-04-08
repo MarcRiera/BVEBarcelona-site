@@ -9,7 +9,7 @@ title: "Línia 2 del Ferrocarril Metropolità de Barcelona"
 
 * Recorregut de Paral·lel a Bac de Roda (7 km)
 * Compatible amb ATP i ATO
-* Trens recomanats: <a href="/descarregues/trens/serie-2000">Sèrie 2000 del FCMB</a> i <a href="/descarregues/trens/serie-9000">Sèrie 9000 del FCMB</a>
+* Trens necessaris: <a href="/descarregues/trens/serie-2000">Sèrie 2000 del FCMB</a> i <a href="/descarregues/trens/serie-9000">Sèrie 9000 del FCMB</a>
 
 &nbsp;
 

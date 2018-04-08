@@ -10,7 +10,7 @@ title: "Barcelona Metro Line 2"
 
 * Section between Paral·lel and Bac de Roda (7 km)
 * ATP and ATO compatible
-* Recommended trains: <a href="/downloads/trains/2000-series">Barcelona Metro 2000 Series</a> and <a href="/downloads/trains/9000-series">Barcelona Metro 9000 Series</a>
+* Required trains: <a href="/downloads/trains/2000-series">Barcelona Metro 2000 Series</a> and <a href="/downloads/trains/9000-series">Barcelona Metro 9000 Series</a>
 
 &nbsp;
 
