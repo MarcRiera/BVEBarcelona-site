@@ -1,7 +1,7 @@
 ---
 url: "downloads"
 title: "Downloads"
-type: "single"
+type: "list"
 menu:
   main:
     name: "Downloads"
@@ -9,4 +9,3 @@ menu:
     url: "#"
     identifier: "Downloads"
 ---
-This page is temporarily unavailable. Sorry for the inconvenience.

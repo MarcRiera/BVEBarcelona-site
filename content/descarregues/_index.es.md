@@ -1,7 +1,7 @@
 ---
 url: "descargas"
 title: "Descargas"
-type: "single"
+type: "list"
 menu:
   main:
     name: "Descargas"
@@ -9,4 +9,3 @@ menu:
     url: "#"
     identifier: "Descargas"
 ---
-Página no disponible temporalmente. Disculpa las molestias.

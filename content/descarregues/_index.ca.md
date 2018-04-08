@@ -1,6 +1,6 @@
 ---
 title: "Descàrregues"
-type: "single"
+type: "list"
 menu:
   main:
     name: "Descàrregues"
@@ -8,4 +8,3 @@ menu:
     url: "#"
     identifier: "Descàrregues"
 ---
-Pàgina no disponible temporalment. Disculpeu les molèsties.

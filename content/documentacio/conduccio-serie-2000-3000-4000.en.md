@@ -1,5 +1,5 @@
 ---
-url: "/manuals/driving-2000-3000-4000-series"
+url: "/documentation/driving-2000-3000-4000-series"
 title: "Driving manual – Barcelona Metro 2000/3000/4000 Series"
 image: '/images/manuals/3000/portada.png'
 ---

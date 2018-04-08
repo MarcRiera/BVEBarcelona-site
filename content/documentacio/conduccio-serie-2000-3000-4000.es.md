@@ -1,5 +1,5 @@
 ---
-url: "/manuales/conduccion-serie-2000-3000-4000"
+url: "/documentation/conduccion-serie-2000-3000-4000"
 title: "Manual de conducción – Serie 2000/3000/4000 del Ferrocarril Metropolitano de Barcelona"
 image: '/images/manuals/3000/portada.png'
 ---
