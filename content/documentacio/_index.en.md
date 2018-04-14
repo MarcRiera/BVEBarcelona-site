@@ -10,8 +10,8 @@ menu:
 ---
 In this section you will find detailed information about many topics:
 
-# openBVE
+## openBVE
 
-## Trains
+### Trains
 
-[ Driving manual – Barcelona Metro 2000/3000/4000 Series ]( {{< relref "conduccio-serie-2000-3000-4000" >}} )
+[ Driving manual – Barcelona Metro 2000/3000/4000 Series ]( {{< relref "openbve-conduccio-serie-2000-3000-4000" >}} )

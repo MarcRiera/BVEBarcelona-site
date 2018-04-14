@@ -9,8 +9,8 @@ menu:
 ---
 En aquesta secció trobareu informació detallada sobre alguns temes:
 
-# openBVE
+## openBVE
 
-## Trens
+### Trens
 
-[ Manual de conducció – Sèrie 2000/3000/4000 del Ferrocarril Metropolità de Barcelona ]( {{< relref "conduccio-serie-2000-3000-4000" >}} )
+[ Manual de conducció – Sèrie 2000/3000/4000 del Ferrocarril Metropolità de Barcelona ]( {{< relref "openbve-conduccio-serie-2000-3000-4000" >}} )

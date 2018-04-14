@@ -5,7 +5,7 @@ title: "Sèrie 2000 del Ferrocarril Metropolità de Barcelona"
 
 * Marc Riera
 
-### Característiques tècniques:
+## Característiques tècniques:
 
 * Any de construcció: 1992
 * Constructor: CAF, MEINFESA, GEC-ALSTHOM
