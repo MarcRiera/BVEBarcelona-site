@@ -2,11 +2,11 @@
 url: "downloads/trains/3000-series"
 title: "Barcelona Metro 3000 Series"
 ---
-## Creator:
+## Creator
 
 * Marc Riera
 
-## Technical description:
+## Technical description
 
 * Build year: 1986
 * Builder: CAF, MTM, MACOSA
@@ -14,7 +14,7 @@ title: "Barcelona Metro 3000 Series"
 * Power supply: 1200V overhead wire or third rail
 * Safety systems: Train Stop, ATP/ATO
 
-## OpenBVE features:
+## OpenBVE features
 
 * Train 3001-3002-3003-3301-3004
 * Fully animated 3D cab
@@ -22,10 +22,12 @@ title: "Barcelona Metro 3000 Series"
 * Custom plugin (ATP and ATO simulation)
 * L3 announcements included
 
-&nbsp;
+## Installation
 
-**Latest version (4/10/2016): <a href="https://github.com/MarcRiera/FCMB-3000/releases/download/v1.3/FCMB_3000_v1.3.obp">Download (22.4 MB)</a>**
+**Latest version (4/10/2016): [Download (22.4 MB)](https://github.com/MarcRiera/FCMB-3000/releases/download/v1.3/FCMB_3000_v1.3.obp)**
 
-&nbsp;
+*Always make sure you have the latest openBVE version, available at the simulator's [official website](http://www.openbve-project.net), and install the OBP file from the Package Manager.*
+
+## Screenshots
 
 <a href="/images/trens/3000/1.png" target="_blank"><img style="float: left; width: 49.5%; margin-right: 0.5%; margin-bottom: 1em;" src="/images/trens/3000/1.png" /></a><a href="/images/trens/3000/2.png" target="_blank"><img style="float: right; width: 49.5%; margin-left: 0.5%; margin-bottom: 1em;" src="/images/trens/3000/2.png" /></a>

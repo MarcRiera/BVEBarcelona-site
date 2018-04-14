@@ -1,11 +1,11 @@
 ---
 title: "Sèrie 9000 del Ferrocarril Metropolità de Barcelona"
 ---
-## Creador:
+## Creador
 
 * Diego Silvosa
 
-## Característiques tècniques:
+## Característiques tècniques
 
 * Any de construcció: 2006
 * Constructor: ALSTOM
@@ -13,16 +13,18 @@ title: "Sèrie 9000 del Ferrocarril Metropolità de Barcelona"
 * Presa de corrent: catenària a 1200 V
 * Sistemes de seguretat: Tren Stop, ATP/ATO
 
-## Característiques a openBVE:
+## Característiques a openBVE
 
 * Cabina 2D estàtica
 * Sense vista exterior
 * Sons realistes
 
-&nbsp;
+## Instal·lació
 
-**Darrera versió (8/2/2016): <a href="https://github.com/MarcRiera/FCMB-9000/releases/download/v1.0/FCMB_9000_v1.0.obp">Descarrega (5,0 MB)</a>**
+**Darrera versió (8/2/2016): [Descarrega (5,0 MB)](https://github.com/MarcRiera/FCMB-9000/releases/download/v1.0/FCMB_9000_v1.0.obp)**
 
-&nbsp;
+*Assegureu-vos sempre que teniu la versió més recent de l'openBVE, disponible al [lloc web oficial](http://www.openbve-project.net) del simulador, i instal·leu el fitxer OBP des del Gestor de paquets.*
+
+## Imatges
 
 <a href="/images/trens/9000/2.png" target="_blank"><img style="width: 50%; margin-bottom: 1em;" src="/images/trens/9000/2.png" /></a>

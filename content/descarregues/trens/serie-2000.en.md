@@ -2,11 +2,11 @@
 url: "downloads/trains/2000-series"
 title: "Barcelona Metro 2000 Series"
 ---
-## Creator:
+## Creator
 
 * Marc Riera
 
-## Technical description:
+## Technical description
 
 * Build year: 1992
 * Builder: CAF, MEINFESA, GEC-ALSTHOM
@@ -14,7 +14,7 @@ title: "Barcelona Metro 2000 Series"
 * Power supply: 1200V overhead wire or third rail
 * Safety systems: Train Stop, ATP/ATO
 
-## OpenBVE features:
+## OpenBVE features
 
 * Train 2001-2002-R2301-2003-2004
 * Fully animated 3D cab
@@ -22,10 +22,12 @@ title: "Barcelona Metro 2000 Series"
 * Custom plugin (ATP and ATO simulation)
 * L3 announcements included
 
-&nbsp;
+## Installation
 
-**Latest version (4/10/2016): <a href="https://github.com/MarcRiera/FCMB-2000/releases/download/v1.3/FCMB_2000_v1.3.obp">Download (22.4 MB)</a>**
+**Latest version (4/10/2016): [Download (22.4 MB)](https://github.com/MarcRiera/FCMB-2000/releases/download/v1.3/FCMB_2000_v1.3.obp)**
 
-&nbsp;
+*Always make sure you have the latest openBVE version, available at the simulator's [official website](http://www.openbve-project.net), and install the OBP file from the Package Manager.*
+
+## Screenshots
 
 <a href="/images/trens/2000/1.png" target="_blank"><img style="float: left; width: 49.5%; margin-right: 0.5%; margin-bottom: 1em;" src="/images/trens/2000/1.png" /></a><a href="/images/trens/2000/2.png" target="_blank"><img style="float: right; width: 49.5%; margin-left: 0.5%; margin-bottom: 1em;" src="/images/trens/2000/2.png" /></a>
