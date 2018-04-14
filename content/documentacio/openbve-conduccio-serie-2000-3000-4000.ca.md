@@ -8,7 +8,7 @@ La sèrie 2000, en canvi, va ser encarregada per inaugurar la L2 en motiu dels J
 
 Tota la informació d’aquest manual s’aplica als tres trens a no ser que s’indiqui el contrari.
 
-<center><h2>Cabina de conducció</h2></center>
+## Cabina de conducció
 
 <table>
 <tr><td rowspan=11><img src="/images/manuals/3000/Cabina.png" alt="Cabina"></td><td>1. Manipulador marxa-fre</td></tr>
@@ -24,7 +24,7 @@ Tota la informació d’aquest manual s’aplica als tres trens a no ser que s�
 <tr><td>11. Xiulet</td></tr>
 </table>
 
-<center><h2>Panell ATC (Sèrie 2000)</h2></center>
+## Panell ATC (Sèrie 2000)
 
 <table>
 <tr><td rowspan=6><img src="/images/manuals/3000/ATC2000.png" alt="ATC2000"></td><td>A. Velocímetre</td></tr>
@@ -35,7 +35,7 @@ Tota la informació d’aquest manual s’aplica als tres trens a no ser que s�
 <tr><td>F. Indicador de presència de codis ATP</td></tr>
 </table>
 
-<center><h2>Panell ATC (Sèrie 3000/4000)</h2></center>
+## Panell ATC (Sèrie 3000/4000)
 
 <table>
 <tr><td rowspan=6><img src="/images/manuals/3000/ATC3000.png" alt="ATC3000"></td><td>A. Velocímetre</td></tr>
@@ -46,7 +46,7 @@ Tota la informació d’aquest manual s’aplica als tres trens a no ser que s�
 <tr><td>F. Indicador de distància objectiu</td></tr>
 </table>
 
-<center><h2>Teclat</h2></center>
+## Teclat
 
 | Teclat | Assignació per defecte | Funció |
 | ------------ | ------------- | ------------- |
@@ -63,7 +63,7 @@ Tota la informació d’aquest manual s’aplica als tres trens a no ser que s�
 | HORN_SECONDARY | Suma (teclat numèric) | Activa el xiulet de tancament de portes |
 | SECURITY_B2 | Fi | Activa o desactiva els sistemes de seguretat (mode especial) |
 
-<center><h2>Conducció del tren</h2></center>
+## Conducció del tren
 
 Els trens de les sèries 2000, 3000 i 4000 disposen d’un manipulador marxa-fre (1) amb 7 posicions de fre de servei, 4 posicions de tracció i 1 posició de deriva. Tot i que els controls són els estàndard per a qualsevol tren de control simple a openBVE, cal tenir en compte l’anomenat ***Home mort***. És molt important mantenir activat el polsador (barra d’espai) durant la tracció, la deriva i la frenada. Si per qualsevol raó no s’activa el polsador durant més de 3 segons, el tren aplicarà el fre d’emergència i no es podrà reprendre la marxa fins que s’hagi aturat completament.
 

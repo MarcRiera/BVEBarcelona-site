@@ -10,7 +10,7 @@ provisionalmente en la L3. Estos trenes eran muy parecidos a los de la serie 300
 
 Toda la información de este manual se aplica a los tres trenes a no ser que se indique lo contrario.
 
-<center><h2>Cabina de conducción</h2></center>
+## Cabina de conducción
 
 <table>
 <tr><td rowspan=11><img src="/images/manuals/3000/Cabina.png" alt="Cabina"></td><td>1. Manipulador marcha-freno</td></tr>
@@ -26,7 +26,7 @@ Toda la información de este manual se aplica a los tres trenes a no ser que se 
 <tr><td>11. Silbato de vía</td></tr>
 </table>
 
-<center><h2>Panel ATC (Serie 2000)</h2></center>
+## Panel ATC (Serie 2000)
 
 <table>
 <tr><td rowspan=6><img src="/images/manuals/3000/ATC2000.png" alt="ATC2000"></td><td>A. Velocímetro</td></tr>
@@ -37,7 +37,7 @@ Toda la información de este manual se aplica a los tres trenes a no ser que se 
 <tr><td>F. Indicador de presencia de códigos ATP</td></tr>
 </table>
 
-<center><h2>Panel ATC (Serie 3000/4000)</h2></center>
+## Panel ATC (Serie 3000/4000)
 
 <table>
 <tr><td rowspan=6><img src="/images/manuals/3000/ATC3000.png" alt="ATC3000"></td><td>A. Velocímetro</td></tr>
@@ -48,7 +48,7 @@ Toda la información de este manual se aplica a los tres trenes a no ser que se 
 <tr><td>F. Indicador de distancia objetivo</td></tr>
 </table>
 
-<center><h2>Teclado</h2></center>
+## Teclado
 
 | Teclado | Assignación por defecto | Función |
 | ------------ | ------------- | ------------- |
@@ -65,7 +65,7 @@ Toda la información de este manual se aplica a los tres trenes a no ser que se 
 | HORN_SECONDARY | Sumar (teclado numérico) | Activa el silbato de cierre de puertas |
 | SECURITY_B2 | Fin | Activa o desactiva los sistemas de seguridad (modo especial) |
 
-<center><h2>Conducción del tren</h2></center>
+## Conducción del tren
 
 Los trenes de las series 2000, 3000 y 4000 disponen de un manipulador marcha-freno (1) con 7 posiciones de freno de servicio, 4 posiciones de tracción y 1 posición de deriva. Aunque los controles son los estándar para cualquier tren de control simple en openBVE, hay que tener en cuenta el llamado ***Hombre muerto***. Es muy importante mantener activado el pulsador (barra de espacio) durante la tracción, la deriva y el frenado. Si por cualquier motivo no se activa el pulsador durante más de 3 segundos, el tren aplicará el freno de emergencia y no se podrá retomar la marcha hasta que esté parado por completo.
 

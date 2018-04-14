@@ -9,7 +9,7 @@ The 2000 series, in contrast, was ordered to start commercial service on L2 duri
 
 All the information in this manual applies to the three series unless otherwise specified.
 
-<center><h2>Driver’s cab</h2></center>
+## Driver’s cab
 
 <table>
 <tr><td rowspan=11><img src="/images/manuals/3000/Cabina.png" alt="Cabina"></td><td>1. Power-brake handle</td></tr>
@@ -25,7 +25,7 @@ All the information in this manual applies to the three series unless otherwise 
 <tr><td>11. Horn pedal</td></tr>
 </table>
 
-<center><h2>ATC Panel (2000 series)</h2></center>
+## ATC Panel (2000 series)
 
 <table>
 <tr><td rowspan=6><img src="/images/manuals/3000/ATC2000.png" alt="ATC2000"></td><td>A. Speedometer</td></tr>
@@ -36,7 +36,7 @@ All the information in this manual applies to the three series unless otherwise 
 <tr><td>F. ATP code indicator</td></tr>
 </table>
 
-<center><h2>ATC Panel (3000/4000 series)</h2></center>
+## ATC Panel (3000/4000 series)
 
 <table>
 <tr><td rowspan=6><img src="/images/manuals/3000/ATC3000.png" alt="ATC3000"></td><td>A. Speedometer</td></tr>
@@ -47,7 +47,7 @@ All the information in this manual applies to the three series unless otherwise 
 <tr><td>F. Target distance indicator</td></tr>
 </table>
 
-<center><h2>Keyboard</h2></center>
+## Keyboard
 
 | Key | Default assignment | Function |
 | ------------ | ------------- | ------------- |
@@ -64,7 +64,7 @@ All the information in this manual applies to the three series unless otherwise 
 | HORN_SECONDARY | Add (numpad) | Plays the door closing signal |
 | SECURITY_B2 | End | Enables or disables the safety systems (special mode) |
 
-<center><h2>Driving the train</h2></center>
+## Driving the train
 
 The 2000, 3000 and 4000 series trains have a power-brake handle (1) with 7 brake notches, 4 power notches and 1 neutral notch. Although the controls are the same as for any other openBVE train with a single handle, the so-called ***Dead man*** device must be taken into account. It is very important to keep the button (space bar) pressed at all times while the train is in motion. If for any reason the button is not pressed for more than 3 seconds, the emergency brakes will be applied and the train will not move again until it has fully stopped.
 
