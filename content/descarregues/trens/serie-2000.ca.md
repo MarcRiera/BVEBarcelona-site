@@ -25,7 +25,7 @@ title: "Sèrie 2000 del Ferrocarril Metropolità de Barcelona"
 
 **Darrera versió (4/10/2016): [Descarrega (22,4 MB)](https://github.com/MarcRiera/FCMB-2000/releases/download/v1.3/FCMB_2000_v1.3.obp)**
 
-*Assegureu-vos sempre que teniu la versió més recent de l'openBVE, disponible al [lloc web oficial](http://www.openbve-project.net) del simulador, i instal·leu el fitxer OBP des del Gestor de paquets.*
+{{< openbve_notice >}}
 
 ## Imatges
 

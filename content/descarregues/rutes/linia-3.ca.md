@@ -15,7 +15,7 @@ title: "Línia 3 del Ferrocarril Metropolità de Barcelona"
 
 **Darrera versió (30/10/2016): [Descarrega (10,5 MB)](https://github.com/MarcRiera/FCMB-L3/releases/download/v1.0/FCMB_L3_v1.0.obp)**
 
-*Assegureu-vos sempre que teniu la versió més recent de l'openBVE, disponible al [lloc web oficial](http://www.openbve-project.net) del simulador, i instal·leu el fitxer OBP des del Gestor de paquets.*
+{{< openbve_notice >}}
 
 ## Imatges
 

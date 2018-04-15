@@ -23,7 +23,7 @@ title: "Sèrie 9000 del Ferrocarril Metropolità de Barcelona"
 
 **Darrera versió (8/2/2016): [Descarrega (5,0 MB)](https://github.com/MarcRiera/FCMB-9000/releases/download/v1.0/FCMB_9000_v1.0.obp)**
 
-*Assegureu-vos sempre que teniu la versió més recent de l'openBVE, disponible al [lloc web oficial](http://www.openbve-project.net) del simulador, i instal·leu el fitxer OBP des del Gestor de paquets.*
+{{< openbve_notice >}}
 
 ## Imatges
 

@@ -16,7 +16,7 @@ title: "Barcelona Metro Line 2"
 
 **Latest version (27/11/2016): [Download (72 MB)](https://github.com/MarcRiera/FCMB-L2/releases/download/v1.0/FCMB_L2_v1.0.obp)**
 
-*Always make sure you have the latest openBVE version, available at the simulator's [official website](http://www.openbve-project.net), and install the OBP file from the Package Manager.*
+{{< openbve_notice >}}
 
 ## Screenshots
 

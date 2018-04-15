@@ -24,7 +24,7 @@ title: "Barcelona Metro 9000 Series"
 
 **Latest version (8/2/2016): [Download (5.0 MB)](https://github.com/MarcRiera/FCMB-9000/releases/download/v1.0/FCMB_9000_v1.0.obp)**
 
-*Always make sure you have the latest openBVE version, available at the simulator's [official website](http://www.openbve-project.net), and install the OBP file from the Package Manager.*
+{{< openbve_notice >}}
 
 ## Screenshots
 

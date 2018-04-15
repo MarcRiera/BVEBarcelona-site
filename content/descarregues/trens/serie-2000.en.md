@@ -26,7 +26,7 @@ title: "Barcelona Metro 2000 Series"
 
 **Latest version (4/10/2016): [Download (22.4 MB)](https://github.com/MarcRiera/FCMB-2000/releases/download/v1.3/FCMB_2000_v1.3.obp)**
 
-*Always make sure you have the latest openBVE version, available at the simulator's [official website](http://www.openbve-project.net), and install the OBP file from the Package Manager.*
+{{< openbve_notice >}}
 
 ## Screenshots
 
