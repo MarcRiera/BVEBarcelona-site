@@ -24,7 +24,7 @@ title: "Barcelona Metro 3000 Series"
 
 ## Installation
 
-**Latest version (4/10/2016): [Download (22.4 MB)](https://github.com/MarcRiera/FCMB-3000/releases/download/v1.3/FCMB_3000_v1.3.obp)**
+{{< download_obp train-3000 >}}
 
 {{< openbve_notice >}}
 

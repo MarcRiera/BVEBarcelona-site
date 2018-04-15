@@ -1,0 +1,47 @@
+{{ $currentlang := .Site.Language.Lang }}
+{{ $currentdownload := .Get 0 }}
+
+{{ $urlPre := "https://api.github.com/repos/MarcRiera" }}
+{{ $.Scratch.Add "releaseJ" "" }}
+
+{{ if eq $currentdownload "train-2000" }}
+  {{ $.Scratch.Set "releaseJ" (getJSON $urlPre "/FCMB-2000/releases") }}
+{{ else if eq $currentdownload "train-3000" }}
+  {{ $.Scratch.Set "releaseJ" (getJSON $urlPre "/FCMB-3000/releases") }}
+{{ else if eq $currentdownload "train-4000" }}
+  {{ $.Scratch.Set "releaseJ" (getJSON $urlPre "/FCMB-4000/releases") }}
+{{ else if eq $currentdownload "train-9000" }}
+  {{ $.Scratch.Set "releaseJ" (getJSON $urlPre "/FCMB-9000/releases") }}
+{{ else if eq $currentdownload "route-l2" }}
+  {{ $.Scratch.Set "releaseJ" (getJSON $urlPre "/FCMB-L2/releases") }}
+{{ else if eq $currentdownload "route-l3" }}
+  {{ $.Scratch.Set "releaseJ" (getJSON $urlPre "/FCMB-L3/releases") }}
+{{ end }}
+
+{{ if ne ($.Scratch.Get "releaseJ") "" }}
+{{ range first 1 (where ($.Scratch.Get "releaseJ") ".prerelease" false) }}
+  {{ $latestversion := .tag_name }}
+  {{ $latestupdate := .published_at }}
+
+  {{ range first 1 .assets}}
+    {{ $filesize := (div .size 1048576) }}
+    {{ if eq $currentlang "ca" }}
+    <p><b>Darrera versió ({{ dateFormat "2006/01/02" $latestupdate }}): <a href="{{ .browser_download_url }}">Descarrega {{ print $latestversion }} ({{ lang.NumFmt 2 $filesize "- ," }} MB)</a></b></p>
+    {{ else if eq $currentlang "es" }}
+    <p><b>Última versión ({{ dateFormat "2006/01/02" $latestupdate }}): <a href="{{ .browser_download_url }}">Descargar {{ print $latestversion }} ({{ lang.NumFmt 2 $filesize "- ," }} MB)</a></b></p>
+    {{ else }}
+    <p><b>Latest version ({{ dateFormat "2006/01/02" $latestupdate }}): <a href="{{ .browser_download_url }}">Download {{ print $latestversion }} ({{ lang.NumFmt 2 $filesize "- ." }} MB)</a></b></p>
+    {{ end }}
+
+  {{ end }}
+
+{{ end }}
+{{ else }}
+  {{ if eq $currentlang "ca" }}
+  <p><b>Descàrrega no disponible.</b></p>
+  {{ else if eq $currentlang "es" }}
+  <p><b>Descarga no disponible.</b></p>
+  {{ else }}
+  <p><b>Download not available.</b></p>
+  {{ end }}
+{{ end }}

@@ -13,7 +13,7 @@ title: "Línia 2 del Ferrocarril Metropolità de Barcelona"
 
 ## Instal·lació
 
-**Darrera versió (27/11/2016): [Descarrega (72 MB)](https://github.com/MarcRiera/FCMB-L2/releases/download/v1.0/FCMB_L2_v1.0.obp)**
+{{< download_obp route-l2 >}}
 
 {{< openbve_notice >}}
 

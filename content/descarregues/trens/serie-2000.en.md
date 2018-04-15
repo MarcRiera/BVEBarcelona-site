@@ -24,7 +24,7 @@ title: "Barcelona Metro 2000 Series"
 
 ## Installation
 
-**Latest version (4/10/2016): [Download (22.4 MB)](https://github.com/MarcRiera/FCMB-2000/releases/download/v1.3/FCMB_2000_v1.3.obp)**
+{{< download_obp train-2000 >}}
 
 {{< openbve_notice >}}
 

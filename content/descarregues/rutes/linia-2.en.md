@@ -14,7 +14,7 @@ title: "Barcelona Metro Line 2"
 
 ## Installation
 
-**Latest version (27/11/2016): [Download (72 MB)](https://github.com/MarcRiera/FCMB-L2/releases/download/v1.0/FCMB_L2_v1.0.obp)**
+{{< download_obp route-l2 >}}
 
 {{< openbve_notice >}}
 

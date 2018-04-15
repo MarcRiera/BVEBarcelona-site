@@ -22,7 +22,7 @@ title: "Serie 9000 del Ferrocarril Metropolitano de Barcelona"
 
 ## Instalación
 
-**Última versión (8/2/2016): [Descargar (5,0 MB)](https://github.com/MarcRiera/FCMB-9000/releases/download/v1.0/FCMB_9000_v1.0.obp)**
+{{< download_obp train-9000 >}}
 
 {{< openbve_notice >}}
 

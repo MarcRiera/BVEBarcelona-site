@@ -14,7 +14,7 @@ title: "Barcelona Metro Line 3"
 
 ## Installation
 
-**Latest version (30/10/2016): [Download (10.5 MB)](https://github.com/MarcRiera/FCMB-L3/releases/download/v1.0/FCMB_L3_v1.0.obp)**
+{{< download_obp route-l3 >}}
 
 {{< openbve_notice >}}
 

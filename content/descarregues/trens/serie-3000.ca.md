@@ -23,7 +23,7 @@ title: "Sèrie 3000 del Ferrocarril Metropolità de Barcelona"
 
 ## Instal·lació
 
-**Darrera versió (4/10/2016): [Descarrega (22,4 MB)](https://github.com/MarcRiera/FCMB-3000/releases/download/v1.3/FCMB_3000_v1.3.obp)**
+{{< download_obp train-3000 >}}
 
 {{< openbve_notice >}}
 

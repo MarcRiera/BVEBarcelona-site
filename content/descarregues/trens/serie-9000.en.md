@@ -22,7 +22,7 @@ title: "Barcelona Metro 9000 Series"
 
 ## Installation
 
-**Latest version (8/2/2016): [Download (5.0 MB)](https://github.com/MarcRiera/FCMB-9000/releases/download/v1.0/FCMB_9000_v1.0.obp)**
+{{< download_obp train-9000 >}}
 
 {{< openbve_notice >}}
 

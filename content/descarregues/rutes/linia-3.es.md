@@ -14,7 +14,7 @@ title: "Línea 3 del Ferrocarril Metropolitano de Barcelona"
 
 ## Instalación
 
-**Última versión (30/10/2016): [Descargar (10,5 MB)](https://github.com/MarcRiera/FCMB-L3/releases/download/v1.0/FCMB_L3_v1.0.obp)**
+{{< download_obp route-l3 >}}
 
 {{< openbve_notice >}}
 

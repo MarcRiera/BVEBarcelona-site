@@ -6,11 +6,11 @@
   {{ $latestversion := .tag_name }}
 
   {{ if eq $currentlang "ca" }}
-  <i>Assegureu-vos sempre que teniu la versió més recent ({{ print $latestversion }}) de l'openBVE, disponible al <a href="http://www.openbve-project.net" target="_blank">lloc web oficial</a> del simulador, i instal·leu el fitxer OBP des del Gestor de paquets.</i>
+  <p><i>Assegureu-vos sempre que teniu la versió més recent ({{ print $latestversion }}) de l'openBVE, disponible al <a href="http://www.openbve-project.net" target="_blank">lloc web oficial</a> del simulador, i instal·leu el fitxer OBP des del Gestor de paquets.</i></p>
   {{ else if eq $currentlang "es" }}
-  <i>Asegúrate siempre de que tienes la versión más reciente ({{ print $latestversion }}) de openBVE, disponible en el <a href="http://www.openbve-project.net" target="_blank">sitio web oficial</a> del simulador, e instala el archivo OBP desde el Gestor de paquetes.</i>
+  <p><i>Asegúrate siempre de que tienes la versión más reciente ({{ print $latestversion }}) de openBVE, disponible en el <a href="http://www.openbve-project.net" target="_blank">sitio web oficial</a> del simulador, e instala el archivo OBP desde el Gestor de paquetes.</i></p>
   {{ else }}
-  <i>Always make sure you have the latest ({{ print $latestversion }}) openBVE version, available at the simulator's <a href="http://www.openbve-project.net" target="_blank">official website</a>, and install the OBP file from the Package Manager.</i>
+  <p><i>Always make sure you have the latest ({{ print $latestversion }}) openBVE version, available at the simulator's <a href="http://www.openbve-project.net" target="_blank">official website</a>, and install the OBP file from the Package Manager.</i></p>
   {{ end }}
 
 {{ end }}
