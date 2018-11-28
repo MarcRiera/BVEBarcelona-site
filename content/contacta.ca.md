@@ -16,5 +16,6 @@ Si necessiteu ajuda, teniu suggeriments o trobeu errors mentre feu servir amb el
   <input type="email" name="email" required>
   <label>Missatge</label>
   <textarea name="message" required></textarea>
+  <div data-netlify-recaptcha></div>
   <button type="submit">Envia</button>
 </form>

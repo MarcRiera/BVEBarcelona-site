@@ -17,5 +17,6 @@ If you need help, have a suggestion or have found errors while using our openBVE
   <input type="email" name="email" required>
   <label>Message</label>
   <textarea name="message" required></textarea>
+  <div data-netlify-recaptcha></div>
   <button type="submit">Send</button>
 </form>
